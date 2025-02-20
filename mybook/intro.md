@@ -5,30 +5,22 @@ Penambangan data (Data Mining) adalah proses mengekstraksi informasi atau pola y
 
 Karakteristik Data Mining
 
-
 Penemuan Pola – Mengidentifikasi pola atau hubungan yang tidak langsung terlihat dalam data.
-
 
 Analisis Prediktif – Menggunakan data historis untuk membuat prediksi tentang kejadian masa depan.
 
-
 Otomatisasi – Prosesnya sering dilakukan dengan algoritma dan perangkat lunak khusus.
-
 
 Skalabilitas – Mampu menangani data dalam jumlah besar.
 
 
-
 NIM : 230411100080
-
 
 Nama  : Rendy Devano Danendra
 
-
 Kelas : Penambangan Data
 
-
-Prodi : Teknim Informatika
+Prodi : Teknik Informatika
 
 rendydevanodanendra@gmail.com
 
